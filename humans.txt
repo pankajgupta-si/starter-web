@@ -11,7 +11,10 @@
    deepak786@
 systemengi
 
+
+deepak from heare is a goodguy
+
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3, angular
+    HTML5, CSS3, angular,docker.,java
     jQuery, Modernizr
